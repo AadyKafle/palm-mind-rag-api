@@ -1,0 +1,15 @@
+
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+pydantic-settings
+python-dotenv
+pypdf
+openai
+qdrant-client
+redis
+sqlalchemy
+email-validator
+pytest
+httpx
